@@ -58,13 +58,17 @@ h1 {
 	margin-bottom: 20px;
 }
 
+h1#styled {
+	color: blue;
+}
+
 h2 {
 	font-size: 35px;
 	margin-bottom: 15px;
 }
 
 p {
-	font-size: 22px;
+	font-size: 18px;
 	font-weight: lighter;
 	line-height: 1.4;
 	margin: 0;
